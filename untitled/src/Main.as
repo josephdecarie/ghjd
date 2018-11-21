@@ -9,6 +9,7 @@ public class Main extends Sprite {
         textField.text = "Hello, World";
         addChild(textField);
 		trace("hi");
+		trace("hi");
     }
 }
 }
